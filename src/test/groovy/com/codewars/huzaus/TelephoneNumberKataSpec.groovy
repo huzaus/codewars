@@ -26,5 +26,6 @@ class TelephoneNumberKataSpec extends Specification {
         where:
         input                                   || result
         [1, 2, 3, 4, 5, 6, 7, 8, 9, 0] as int[] || '(123) 456-7890'
+        [5, 0, 3, 5, 6, 2, 4, 4, 4, 6] as int[] || '(503) 562-4446'
     }
 }

@@ -1,4 +1,4 @@
-package com.codewars.huzaus
+package com.codewars.huzaus.middlecharacter
 
 import spock.lang.Specification
 import spock.lang.Unroll

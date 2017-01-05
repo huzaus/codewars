@@ -15,13 +15,11 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 ### Java template
-*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -29,3 +27,4 @@ gradle-app.setting
 hs_err_pid*
 .idea/
 gradle/gradle-wrapper.jar
+

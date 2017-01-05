@@ -1,4 +1,4 @@
-package com.codewars.huzaus;
+package com.codewars.huzaus.middlecharacter;
 
 public class MiddleCharacterKata {
     public static String getMiddle(String word) {

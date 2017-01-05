@@ -1,4 +1,4 @@
-package com.codewars.huzaus;
+package com.codewars.huzaus.createphonenumber;
 
 import static java.lang.String.format;
 import static java.util.Arrays.stream;

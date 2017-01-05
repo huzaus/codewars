@@ -1,4 +1,4 @@
-package com.codewars.huzaus;
+package com.codewars.huzaus.consecutivestrings;
 
 class LongestConsecKata {
 

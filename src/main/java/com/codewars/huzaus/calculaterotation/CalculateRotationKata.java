@@ -1,4 +1,4 @@
-package com.codewars.huzaus;
+package com.codewars.huzaus.calculaterotation;
 
 public class CalculateRotationKata {
     static int shiftedDiff(String first, String second) {

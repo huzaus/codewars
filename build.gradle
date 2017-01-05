@@ -1,4 +1,4 @@
-group 'com.codewars.huzaus'
+group 'com.codewars'
 version '1.0'
 
 apply plugin: 'groovy'
@@ -12,6 +12,5 @@ repositories {
 
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.7'
-
     testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
 }
